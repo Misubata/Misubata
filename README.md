@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziad</h1>
 <h3 align="center">Recently graduated from my Master Degree in Cybersecurity at Université Paris Cité</h3>
 
-## 🔭 I’m currently looking for job opportunities
+## 🔭 I’m currently looking for job opportunities around Paris
 I'd love a job in Pentesting or in a red team, but I'd gladly take any other opportunities where I could use my technical skills.
 
 ## 🤝 I’ve worked as an intern Pentester
